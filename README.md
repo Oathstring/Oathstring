@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Oathstring
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Imran Hadi.
+
+I'm now currently learning C#, Html, Css, JavaScript, or maybe C++ if My PC Specifications can Handle that.
+
+I'm like to programming a game because I'm just like it.
+
+You can reach me on : imranhadi.3010@gmail.com
 
 <!---
 Oathstring/Oathstring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

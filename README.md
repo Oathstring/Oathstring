@@ -15,7 +15,7 @@
 <div>
   <p>Hai, Aku Imran Hadi.</p><br>
 
-  <p>Aku sekarang sedang mempelajari C#, mungkin juga C++ jika PC ku sudah cukup mumpuni</p><br>
+  <p>Aku sekarang sedang mempelajari C#, mungkin juga C++ jika PC ku sudah cukup mumpuni.</p><br>
   
   <p>Aku suka memprogram game karena aku suka.</p><br>
 

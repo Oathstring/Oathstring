@@ -2,9 +2,9 @@
 <div>
   <p>Hi, I'm Imran Hadi.</p><br>
   
-  <p>I'm now currently learning C#, HTML, CSS, JavaScript, or maybe C++ if My PC Specifications can Handle that.</p><br>
+  <p>I'm now currently learning C#, or maybe C++ if My PC can Handle that.</p><br>
   
-  <p>I'm like to programming a game because I'm just like it.</p><br>
+  <p>I like to program a game because I just like it.</p><br>
   
   <p>You can reach me on : imranhadi.3010@gmail.com</p>
 </div>
@@ -15,7 +15,7 @@
 <div>
   <p>Hai, Aku Imran Hadi.</p><br>
 
-  <p>Aku sekarang sedang mempelajari C#, HTML, CSS, JavaScript, mungkin juga C++ jika Spesifikasi PC ku sudah cukup mumpuni</p><br>
+  <p>Aku sekarang sedang mempelajari C#, mungkin juga C++ jika PC ku sudah cukup mumpuni</p><br>
   
   <p>Aku suka memprogram game karena aku suka.</p><br>
 

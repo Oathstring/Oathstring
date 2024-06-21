@@ -6,7 +6,7 @@
   
   <p>I like to program a game because I just like it.</p><br>
   
-  <p>You can reach me on : imranhadi.3010@gmail.com</p>
+  <p>You can reach me on: imranhadi.3010@gmail.com</p>
 </div>
 <br>
 <br>
@@ -19,7 +19,7 @@
   
   <p>Aku suka memprogram game karena aku suka.</p><br>
 
-  <p>Kamu bisa menghubungiku di : imranhadi.3010@gmail.com</p>
+  <p>Kamu bisa menghubungiku di: imranhadi.3010@gmail.com</p>
 </div>
 
 <!---
